@@ -445,12 +445,12 @@ Animating title
 }
 
 @media (max-width: 480px) {
-  .subtitle {
+  .subtitle{
     font-size: 2rem;
   }
 
   .js-add-grid,
-  .js-add-html {
+  .js-add-html{
     grid-template-columns: 1fr;
   }
 
